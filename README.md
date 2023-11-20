@@ -1,7 +1,7 @@
 ### Hi, my name is Giuseppe and I'm a web developer! 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/9nUGqKJLH64NzA4cJv/giphy.gif"/>
+  <img src="https://media.giphy.com/media/9nUGqKJLH64NzA4cJv/giphy.gif" whidth="100"/>
 </div>
 
 <!--

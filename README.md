@@ -7,8 +7,14 @@
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-     <img src="https://komarev.com/ghpvc/?username=giuseppeAnzalonee&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
+
+
 
 <!--
 **giuseppeAnzalone/giuseppeAnzalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

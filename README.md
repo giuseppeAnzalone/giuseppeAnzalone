@@ -22,8 +22,8 @@
 
 ### :hammer_and_wrench: CMS:
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" width="60" height="60">
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="60" height="60">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" width="60" height="60">&nbsp;
 </div>
 
 

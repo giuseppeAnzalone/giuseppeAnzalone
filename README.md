@@ -18,6 +18,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" height="60">     
 </div>
 
+---
+
+### :hammer_and_wrench: CMS:
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="60" height="60">
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" width="60" height="60">
+</div>
+
 
 <!--
 **giuseppeAnzalone/giuseppeAnzalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

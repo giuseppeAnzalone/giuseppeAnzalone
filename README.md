@@ -1,7 +1,12 @@
 ### Hi, my name is Giuseppe! 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/>
+     <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/>
+  <div id="badges">
+<    a href="https://www.linkedin.com/in/giuseppe-anzalone-b3a104133/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
 
 <!--

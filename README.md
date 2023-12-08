@@ -11,7 +11,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages:
+### Languages:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="60" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="60" height="60">
@@ -20,7 +20,7 @@
 
 ---
 
-### :hammer_and_wrench: CMS:
+### CMS:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="60" height="60"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" width="60" height="60"> &nbsp;

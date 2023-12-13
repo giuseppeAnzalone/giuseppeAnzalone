@@ -17,6 +17,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="60" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>     
 </div>
 
 ---

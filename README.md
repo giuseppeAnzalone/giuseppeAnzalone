@@ -20,6 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="60" height="60"/>
 </div>
 
 ---

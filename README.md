@@ -18,6 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" width="60" height="60"/>     
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>

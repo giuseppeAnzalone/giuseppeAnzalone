@@ -25,10 +25,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" width="60" height="60"/>
 </div>
 
+---
+
+### DB:
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
+</div>
 ---
 
 ### CMS:

@@ -1,6 +1,6 @@
 ### Hi, my name is Giuseppe! 👋
 
-<div id="header" align="center">
+<div id="header" align="left">
      <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/>
   <div id="badges">
      <a href="https://www.linkedin.com/in/giuseppe-anzalone-b3a104133/">
